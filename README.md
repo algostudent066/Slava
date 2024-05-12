@@ -1,6 +1,8 @@
 <html>
   <link rel="stylesheet" href="style.css"/>
-    <header>
+    <header style = "width: 100%;
+    height: 260px;
+    background-image: linear-gradient(#8d3e3e ,#c57979)">
      <p> сайт обо мне </p> 
     </header>
     <main>
